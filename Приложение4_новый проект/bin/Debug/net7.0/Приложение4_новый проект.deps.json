@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Приложение4_новый проект/1.0.0": {
+        "runtime": {
+          "Приложение4_новый проект.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Приложение4_новый проект/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
