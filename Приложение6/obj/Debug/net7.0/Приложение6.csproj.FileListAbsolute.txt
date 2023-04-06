@@ -1,0 +1,15 @@
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.csproj.AssemblyReference.cache
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.AssemblyInfoInputs.cache
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.AssemblyInfo.cs
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.csproj.CoreCompileInputs.cache
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\bin\Debug\net7.0\Приложение6.exe
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\bin\Debug\net7.0\Приложение6.deps.json
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\bin\Debug\net7.0\Приложение6.runtimeconfig.json
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\bin\Debug\net7.0\Приложение6.dll
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\bin\Debug\net7.0\Приложение6.pdb
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.dll
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\refint\Приложение6.dll
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.pdb
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\Приложение6.genruntimeconfig.cache
+C:\Users\Dolzh\OneDrive\Рабочий стол\C#\Приложение6\obj\Debug\net7.0\ref\Приложение6.dll
